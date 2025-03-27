@@ -1,0 +1,1 @@
+while i was making that quiz i had some issues to create subpackages, and aslo import classes in class, so i use deepseek to solve that problem.
