@@ -41,7 +41,7 @@ public class Workshop01 {
         System.out.println("The "+minutes+ " minutes in seconds is: "+ seconds);
 
         System.out.println("-----Assignment#5------------");
-        System.out.println("Enter the value of height:");
+        System.out.println("Enter the value of the  height:");
         int height=scanner.nextInt();
         for (int i=0;i<=height;i++) {
             for (int j=0;j<=i;j++) {
